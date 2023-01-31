@@ -11,6 +11,11 @@ Live-server is a implementation of HTTP server in the Rust programming language.
 - View limited type of file
 - Directories List
 
+## ToDo:
+<input type="checkbox" checked disabled> Improve UI<br>
+<input type="checkbox" disabled> live check to file chages<br>
+<input type="checkbox" disabled> add support for multiple file type<br>
+
 ## Usage:
 1. Clone the repo
 2. Navigate to directory
