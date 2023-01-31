@@ -19,4 +19,4 @@ Live-server is a implementation of HTTP server in the Rust programming language.
 ## Usage:
 1. Clone the repo
 2. Navigate to directory
-3. Run `cargo run`(Assuming you had already installed rust)
+3. Run `cargo run -- 8080`(Assuming you had already installed rust)
